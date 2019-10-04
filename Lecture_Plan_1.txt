@@ -1,0 +1,63 @@
+1) Introduction of Data Science, Importance of Python Programming
+
+2) Python
+
+3) EDA - Exploratory Data Analysis
+- Sample, and Population
+What do you do with the data 
+- Present it visually - Scatter plot, Box Plot, Heatmap, Histogram, Barplot, Density Plot
+- organise, summerize, and make inferences
+
+EDA - for gaining a better understanding of the data
+aspects like :
+- Main features of data
+- Variables and relationship that hold between them
+- identifying which variables are important for our problem
+
+EDA is statisticans way of story telling
+
+Types of Data
+- Qualitative - True/False, yes/no, bad/good/best, data of address etc
+- Quantitive - numerical data - 1,2.2,4
+
+Descriptive Statistics
+- Measures of central tendency
+  - Mean = sum / no of data
+  - Median = Value at half index of a sorted data, mode = value that present max no of times.
+  
+- Measures of dispersion
+  - range, InterQuartile range, 
+  - standard deviation
+  - variance 
+
+Variance is an avg of squared deviations about mean.
+Standard Deviation is the squared root of variance.
+
+Skewness
+- Measure the symmetry
+- Normal, Right tail- positive, left -> negative
+
+Kurtosis
+- Measure of flatness.
+- Guassian distribution is expected to have 0 as
+- High, dept or flat, normal distribution
+
+Normal distribution ->  Bell shaped curve, mean, mode and median are same, 
++1 sd to -1 sd 68.26% data, -2sd to +2sd ->95.44 % data
+
+
+# Data Qunatitle vs Normal Quantiles
+
+
+4) Probability theory
+
+Probability - How likely something is to happen ?
+
+Probability of an event happening =  Number of ways it can happen/Total number of outcomes
+
+Experiment 2: A single 6-sided die is rolled. What is the probability of each outcome? What is the probability 
+of rolling an even number? of rolling an odd number ?
+
+Z Score -> No of standard deviation from the mean. 
+
+# Q-Q plot - Which distribution matches your data.
